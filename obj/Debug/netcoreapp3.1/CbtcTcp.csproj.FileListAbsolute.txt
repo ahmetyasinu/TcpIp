@@ -1,0 +1,13 @@
+D:\Dev\Tcp-Ip\Tcp-Ip\TcpServer\CbtcTcp\bin\Debug\netcoreapp3.1\CbtcTcp.exe
+D:\Dev\Tcp-Ip\Tcp-Ip\TcpServer\CbtcTcp\bin\Debug\netcoreapp3.1\CbtcTcp.deps.json
+D:\Dev\Tcp-Ip\Tcp-Ip\TcpServer\CbtcTcp\bin\Debug\netcoreapp3.1\CbtcTcp.runtimeconfig.json
+D:\Dev\Tcp-Ip\Tcp-Ip\TcpServer\CbtcTcp\bin\Debug\netcoreapp3.1\CbtcTcp.runtimeconfig.dev.json
+D:\Dev\Tcp-Ip\Tcp-Ip\TcpServer\CbtcTcp\bin\Debug\netcoreapp3.1\CbtcTcp.dll
+D:\Dev\Tcp-Ip\Tcp-Ip\TcpServer\CbtcTcp\bin\Debug\netcoreapp3.1\CbtcTcp.pdb
+D:\Dev\Tcp-Ip\Tcp-Ip\TcpServer\CbtcTcp\obj\Debug\netcoreapp3.1\CbtcTcp.csproj.AssemblyReference.cache
+D:\Dev\Tcp-Ip\Tcp-Ip\TcpServer\CbtcTcp\obj\Debug\netcoreapp3.1\CbtcTcp.AssemblyInfoInputs.cache
+D:\Dev\Tcp-Ip\Tcp-Ip\TcpServer\CbtcTcp\obj\Debug\netcoreapp3.1\CbtcTcp.AssemblyInfo.cs
+D:\Dev\Tcp-Ip\Tcp-Ip\TcpServer\CbtcTcp\obj\Debug\netcoreapp3.1\CbtcTcp.csproj.CoreCompileInputs.cache
+D:\Dev\Tcp-Ip\Tcp-Ip\TcpServer\CbtcTcp\obj\Debug\netcoreapp3.1\CbtcTcp.dll
+D:\Dev\Tcp-Ip\Tcp-Ip\TcpServer\CbtcTcp\obj\Debug\netcoreapp3.1\CbtcTcp.pdb
+D:\Dev\Tcp-Ip\Tcp-Ip\TcpServer\CbtcTcp\obj\Debug\netcoreapp3.1\CbtcTcp.genruntimeconfig.cache

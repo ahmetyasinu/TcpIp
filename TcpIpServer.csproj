@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon />
+    <StartupObject />
+    <AssemblyName>TcpIpServer</AssemblyName>
+    <RootNamespace>TcpIpServer</RootNamespace>
+  </PropertyGroup>
+
+</Project>
